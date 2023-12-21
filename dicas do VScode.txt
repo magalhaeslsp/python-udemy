@@ -1,0 +1,3 @@
+Mudar Idioma 
+Pressione "Ctrl+Shift+P" para exibir a "Paleta de Comandos" e comece a digitar "display" para filtrar e exibir o comando "Configurar o Idioma de Exibição". 
+Pressione "Enter" e será exibida uma lista de idiomas instalados por localidade, com a localidade atual realçada.
